@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0B0B1E,FF6A00,00B4FF&text=MARTIN%20CODE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;AI+%26+Embedded+Systems+Enthusiast;Building+Scalable+Modern+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;AI+%26+Embedded+Systems+Enthusiast;Building+Scalable+Modern+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Python;Future+Software+Engineer" />
 
 <br/>
 
@@ -36,9 +36,9 @@
 
 | Project | Stack | Status |
 |:---|:---|:---:|
-| 🚗 **Rent Car Platform** | React · Node.js · MongoDB | ![Active](https://img.shields.io/badge/●_ACTIVE-39d353?style=flat-square) |
+| 🚗 **Rent Car Platform** | React · Next.js · Node.js · MongoDB | ![Active](https://img.shields.io/badge/●_ACTIVE-39d353?style=flat-square) |
 | ✅ **Validation Systems** | Express · JWT · MongoDB | ![Active](https://img.shields.io/badge/●_ACTIVE-39d353?style=flat-square) |
-| 🌐 **Portfolio Website** | React · Tailwind · Vite | ![Active](https://img.shields.io/badge/●_ACTIVE-39d353?style=flat-square) |
+| 🌐 **Portfolio Website** | Next.js · Tailwind · Vite | ![Active](https://img.shields.io/badge/●_ACTIVE-39d353?style=flat-square) |
 | 🧠 **AI & Embedded** | Python · TensorFlow · IoT | ![Active](https://img.shields.io/badge/●_ACTIVE-39d353?style=flat-square) |
 
 </div>
@@ -52,6 +52,7 @@
 **💻 Frontend**
 
 ![React](https://img.shields.io/badge/React-0B0B1E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FF6A00)
+![Next.js](https://img.shields.io/badge/Next.js-0B0B1E?style=for-the-badge&logo=next.js&logoColor=white&labelColor=00B4FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B0B1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FF6A00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B0B1E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00B4FF)
 ![HTML5](https://img.shields.io/badge/HTML5-0B0B1E?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FF6A00)
@@ -93,14 +94,17 @@
 
 <div align="center">
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Dev-FF6A00?style=for-the-badge&logo=react&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN_Stack-00B4FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-00B4FF?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_%26_Automation-FF6A00?style=for-the-badge&logo=homeassistant&logoColor=white)
-![API](https://img.shields.io/badge/API_Development-00B4FF?style=for-the-badge&logo=postman&logoColor=white)
-![Architecture](https://img.shields.io/badge/System_Architecture-FF6A00?style=for-the-badge&logo=linux&logoColor=white)
-![UI/UX](https://img.shields.io/badge/Modern_UI%2FUX-00B4FF?style=for-the-badge&logo=figma&logoColor=white)
+![Full-Stack Dev](https://img.shields.io/badge/FULL--STACK%20DEV-FF6A00?style=for-the-badge&logo=react&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN%20STACK-00B4FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-00B4FF?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+![IoT & Automation](https://img.shields.io/badge/IOT%20%26%20AUTOMATION-FF6A00?style=for-the-badge&logo=homeassistant&logoColor=white)
+![API Development](https://img.shields.io/badge/API%20DEVELOPMENT-00B4FF?style=for-the-badge&logo=postman&logoColor=white)
+![System Architecture](https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-FF6A00?style=for-the-badge&logo=linux&logoColor=white)
+![Modern UI/UX](https://img.shields.io/badge/MODERN%20UI%2FUX-00B4FF?style=for-the-badge&logo=figma&logoColor=white)
+
+![Cloud & DevOps](https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-FF6A00?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
