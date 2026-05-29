@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,30&text=MARTIN%20CODE&fontSize=56&fontColor=FF6B00&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,6,30&text=MARTIN%20CODE&fontSize=56&fontColor=FF6B00&animation=fadeIn&fontAlignY=38" />
 
 <br/>
 
@@ -107,7 +107,7 @@
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=martincode2&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=martincode2&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7" />
 </div>
 
 ---
@@ -149,7 +149,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,6,30" />
 
 <br/>
 
