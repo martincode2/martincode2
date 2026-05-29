@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=martincode2&label=PROFILE+VIEWS&color=ff6a00&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=martincode2&label=PROFILE+VIEWS&color=FF6A00&style=for-the-badge)
 
 </div>
 
@@ -32,10 +32,10 @@
 
 | Project | Stack | Status |
 |:---|:---|:---:|
-| 🚗 **Rent Car Platform** | React · Node.js · MongoDB | ![Active](https://img.shields.io/badge/Active-39d353?style=flat-square) |
-| ✅ **Validation Systems** | Express · JWT · MongoDB | ![Active](https://img.shields.io/badge/Active-39d353?style=flat-square) |
-| 🌐 **Portfolio Website** | React · Tailwind · Vite | ![Active](https://img.shields.io/badge/Active-39d353?style=flat-square) |
-| 🧠 **AI & Embedded** | Python · TensorFlow · IoT | ![Active](https://img.shields.io/badge/Active-39d353?style=flat-square) |
+| 🚗 **Rent Car Platform** | React · Node.js · MongoDB | ![Active](https://img.shields.io/badge/●_Active-39d353?style=flat-square&logoColor=white) |
+| ✅ **Validation Systems** | Express · JWT · MongoDB | ![Active](https://img.shields.io/badge/●_Active-39d353?style=flat-square&logoColor=white) |
+| 🌐 **Portfolio Website** | React · Tailwind · Vite | ![Active](https://img.shields.io/badge/●_Active-39d353?style=flat-square&logoColor=white) |
+| 🧠 **AI & Embedded** | Python · TensorFlow · IoT | ![Active](https://img.shields.io/badge/●_Active-39d353?style=flat-square&logoColor=white) |
 
 </div>
 
@@ -89,14 +89,14 @@
 
 <div align="center">
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-FF6A00?style=flat-square&logo=react&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN_Stack-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_%26_Automation-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
-![API](https://img.shields.io/badge/API_Development-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Architecture](https://img.shields.io/badge/System_Architecture-4B5563?style=flat-square&logo=linux&logoColor=white)
-![UI/UX](https://img.shields.io/badge/Modern_UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-FF6A00?style=for-the-badge&logo=react&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN_Stack-00B4FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-00B4FF?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_%26_Automation-FF6A00?style=for-the-badge&logo=homeassistant&logoColor=white)
+![API](https://img.shields.io/badge/API_Development-00B4FF?style=for-the-badge&logo=postman&logoColor=white)
+![Architecture](https://img.shields.io/badge/System_Architecture-FF6A00?style=for-the-badge&logo=linux&logoColor=white)
+![UI/UX](https://img.shields.io/badge/Modern_UI%2FUX-00B4FF?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -106,13 +106,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=martincode2&show_icons=true&theme=dark&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincode2&layout=compact&theme=dark&bg_color=080818&title_color=FF6A00&text_color=ffffff&border_color=FF6A00&border_radius=8" height="160"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=martincode2&show_icons=true&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincode2&layout=compact&bg_color=080818&title_color=FF6A00&text_color=ffffff&border_color=FF6A00&border_radius=8&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martincode2&theme=dark&background=080818&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&border=FF6A00" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=martincode2&background=080818&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&border=FF6A00&sideLabels=00B4FF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=FF6A00" />
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=martincode2&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10&title_color=FF6A00" />
 
 </div>
 
@@ -122,13 +131,19 @@
 
 <div align="center">
 
-[![Rent Car](https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=Rent-Car-React-Nodejs&theme=dark&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8)](https://github.com/martincode2/Rent-Car-React-Nodejs)
-&nbsp;&nbsp;
-[![validationcheck](https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=validationcheck&theme=dark&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8)](https://github.com/martincode2/validationcheck)
+<a href="https://github.com/martincode2/Rent-Car-React-Nodejs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=Rent-Car-React-Nodejs&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8" />
+</a>
+<a href="https://github.com/martincode2/validationcheck">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=validationcheck&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8" />
+</a>
 
-[![Login Validation](https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=Login-validation-in-javaSript&theme=dark&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8)](https://github.com/martincode2/Login-validation-in-javaSript)
-&nbsp;&nbsp;
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=Website&theme=dark&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8)](https://github.com/martincode2/Website)
+<a href="https://github.com/martincode2/Login-validation-in-javaSript">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=Login-validation-in-javaSript&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8" />
+</a>
+<a href="https://github.com/martincode2/Website">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=martincode2&repo=Website&bg_color=080818&title_color=FF6A00&icon_color=00B4FF&text_color=ffffff&border_color=FF6A00&border_radius=8" />
+</a>
 
 </div>
 
