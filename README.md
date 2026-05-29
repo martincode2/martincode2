@@ -90,21 +90,18 @@
 
 ---
 
-## 🌌 ENGINEERING INTERESTS
+## 🎯 FOCUS AREAS & WORKFLOW
 
 <div align="center">
 
-![Full-Stack Dev](https://img.shields.io/badge/FULL--STACK%20DEV-FF6A00?style=for-the-badge&logo=react&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20STACK-00B4FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-00B4FF?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Clean Code](https://img.shields.io/badge/CLEAN%20CODE-FF6A00?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Test Driven Dev](https://img.shields.io/badge/TEST%20DRIVEN%20DEV-00B4FF?style=for-the-badge&logo=jest&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20PIPELINES-FF6A00?style=for-the-badge&logo=githubactions&logoColor=white)
+![Performance Opt.](https://img.shields.io/badge/PERFORMANCE%20OPTIMIZATION-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-![IoT & Automation](https://img.shields.io/badge/IOT%20%26%20AUTOMATION-FF6A00?style=for-the-badge&logo=homeassistant&logoColor=white)
-![API Development](https://img.shields.io/badge/API%20DEVELOPMENT-00B4FF?style=for-the-badge&logo=postman&logoColor=white)
-![System Architecture](https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-FF6A00?style=for-the-badge&logo=linux&logoColor=white)
-![Modern UI/UX](https://img.shields.io/badge/MODERN%20UI%2FUX-00B4FF?style=for-the-badge&logo=figma&logoColor=white)
-
-![Cloud & DevOps](https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-FF6A00?style=for-the-badge&logo=docker&logoColor=white)
+![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-FF6A00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Agile & Scrum](https://img.shields.io/badge/AGILE%20%26%20SCRUM-00B4FF?style=for-the-badge&logo=jira&logoColor=white)
+![Security First](https://img.shields.io/badge/SECURITY%20FIRST-FF6A00?style=for-the-badge&logo=owasp&logoColor=white)
 
 </div>
 
