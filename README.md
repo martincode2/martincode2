@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=E5E7EB&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;AI+%26+Embedded+Systems+Enthusiast;Building+Scalable+Modern+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;AI+%26+Embedded+Systems+Enthusiast;Building+Scalable+Modern+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Future+Software+Engineer" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=martincode2&label=PROFILE+VIEWS&color=4B5563&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=martincode2&label=PROFILE+VIEWS&color=A78BFA&style=flat-square" />
 
 </div>
 
@@ -64,14 +64,14 @@
 ## 🌌 ENGINEERING INTERESTS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Development-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MERN-Stack-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Artificial-Intelligence-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Embedded-Systems-0d1117?style=flat-square&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-%26-IoT-0d1117?style=flat-square&logo=homeassistant&logoColor=41BDF5" />
-  <img src="https://img.shields.io/badge/API-Development-0d1117?style=flat-square&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/System-Architecture-0d1117?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modern-UI/UX-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Full--Stack-Development-A78BFA?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-A78BFA?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial-Intelligence-A78BFA?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-A78BFA?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-%26-IoT-A78BFA?style=flat-square&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Development-A78BFA?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Architecture-A78BFA?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modern-UI/UX-A78BFA?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
 ---
@@ -79,10 +79,10 @@
 ## 🔥 FEATURED REPOSITORIES
 
 <div align="center">
-  🚗 [**Rent-Car-React-Nodejs**](https://github.com/martincode2/Rent-Car-React-Nodejs) — Modern MERN car rental platform<br/>
-  ✅ [**validationcheck**](https://github.com/martincode2/validationcheck) — Advanced validation logic system<br/>
-  🔐 [**Login-validation-in-javaSript**](https://github.com/martincode2/Login-validation-in-javaSript) — Authentication & form validation<br/>
-  🌐 [**Website**](https://github.com/martincode2/Website) — Personal website & portfolio
+  🚗 <a href="https://github.com/martincode2/Rent-Car-React-Nodejs"><strong>Rent-Car-React-Nodejs</strong></a> — Modern MERN car rental platform<br/>
+  ✅ <a href="https://github.com/martincode2/validationcheck"><strong>validationcheck</strong></a> — Advanced validation logic system<br/>
+  🔐 <a href="https://github.com/martincode2/Login-validation-in-javaSript"><strong>Login-validation-in-javaSript</strong></a> — Authentication & form validation<br/>
+  🌐 <a href="https://github.com/martincode2/Website"><strong>Website</strong></a> — Personal website & portfolio
 </div>
 
 ---
@@ -90,8 +90,8 @@
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martincode2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincode2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martincode2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincode2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 </div>
 
 ---
@@ -99,7 +99,7 @@
 ## ⚡ CONTRIBUTION STREAK
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martincode2&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martincode2&theme=dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=c9d1d9" />
 </div>
 
 ---
@@ -107,7 +107,7 @@
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=martincode2&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=martincode2&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -115,7 +115,7 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-  <img src="https://github.com/martincode2/martincode2/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/martincode2/martincode2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -123,8 +123,8 @@
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
-  <a href="https://github.com/martincode2"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://martincode2.com"><img src="https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://github.com/martincode2"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://martincode2.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </div>
 
 ---
